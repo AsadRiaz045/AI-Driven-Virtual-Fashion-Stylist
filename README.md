@@ -31,7 +31,7 @@ Size Mapping: The calculated measurements are compared against the size_config.p
 
 💻 Installation & Usage
 Clone the repository:
-git clone https://github.com/AsadRiaz045/AI-Fashion-Stylist.git
+git clone https:(https://github.com/AsadRiaz045/AI-Driven-Virtual-Fashion-Stylist)
 Install dependencies:
 pip install -r requirements.txt
 Run the application:
